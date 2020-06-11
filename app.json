@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "FirstReactNativeApp",
-    "slug": "FirstReactNativeApp",
+    "slug": "firstreactnativeapp",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Selling stuff you don't want anymore!",
+    "githubUrl": "https://github.com/zqlimy17/firstreactnativeapp"
   }
 }
